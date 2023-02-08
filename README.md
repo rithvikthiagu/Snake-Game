@@ -19,5 +19,5 @@ The game displays game over messages and instructions on how to play again.
 
 # Built With
 Java
-Java Swing for creating the GUI
+Java Swing for creating the GUI and associated features 
 
